@@ -1,5 +1,13 @@
 # q4 — 4D Compatibility Library for FreePascal/Lazarus
 
+### Project status
+
+q4 is under development and is not yet ready for standalone use.
+
+This repository currently contains the compatibility library. Instructions and examples for creating and initializing a database are not yet included.
+
+A standalone example using a small database schema will be added to demonstrate how to get started.
+
 ## Overview
 
 ### What is 4D?
